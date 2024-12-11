@@ -2,8 +2,9 @@ DataMining-ModelSelect
 # 학습 모델 비교 분석 및 성능 평가
 
 
-### 코딩 목적
-의사결정나무(Decision Tree)와 랜덤포레스트(Random Forest) 모델의 성능을 비교하고, 데이터를 효과적으로 분리 및 평가하여 최적의 학습 모델을 선정합니다.
+### 코드의 목적
+의사결정나무(Decision Tree)와 랜덤포레스트(Random Forest) 모델의 성능을 비교한다. 
+데이터를 효과적으로 분리 및 평가하여 최적의 학습 모델을 선정한다.
 
 ---
 
@@ -12,7 +13,7 @@ DataMining-ModelSelect
 - 데이터 분할 (Train/Test)
 - 학습 모델 성능 평가 (Accuracy, Precision, Recall, F1-Score)
 - 교차 검증 (Cross Validation)
-- 학습 곡선 시각화
+- 학습 곡선 시각화 (Learning curve)
 
 ---
 
@@ -54,15 +55,5 @@ DataMining-ModelSelect
 - 정확도와 추가적인 성능 지표(Precision, Recall, F1-Score)는 결과 섹션에 상세히 기록되어 있습니다.
 - 학습 곡선 분석 결과, 랜덤포레스트는 더 안정적이고 일반화 능력이 뛰어난 모델임을 확인했습니다.
 
----
-
-### 참고 자료
-- [scikit-learn Documentation](https://scikit-learn.org/stable/)
-- [imbalanced-learn Documentation](https://imbalanced-learn.org/stable/)
-
----
-
-### 기여
-Pull Request와 Issue를 통해 기여를 환영합니다! 궁금한 점이나 개선 사항이 있다면 자유롭게 연락주세요.
 
 ---
