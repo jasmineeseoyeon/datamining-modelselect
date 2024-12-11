@@ -36,10 +36,9 @@ DataMining-ModelSelect
 - **타겟 변수**: `booking_status`
 - **출처**: [Kaggle - Hotel Reservations Classification Dataset](https://www.kaggle.com/datasets/ahsan81/hotel-reservations-classification-dataset)
 
+---
 
 ### 주요 결과
 - 랜덤포레스트(Random Forest)가 의사결정나무(Decision Tree)보다 성능이 우수함.
 - 정확도와 추가적인 성능 지표(Precision, Recall, F1-Score)는 결과 섹션도 함께 출력.
 - 학습 곡선 분석 결과, 랜덤포레스트는 더 안정적이고 일반화 능력이 뛰어난 모델임을 확인.
-
----
