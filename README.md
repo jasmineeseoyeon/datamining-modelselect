@@ -34,19 +34,6 @@ DataMining-ModelSelect
 
 ---
 
-### 실행 방법
-
-1. Jupyter Notebook을 실행합니다:
-   ```bash
-   jupyter notebook
-
-3. 브라우저에서 파일을 열고 실행합니다:
-   ```bash
-   hotel dataset classify accuracy_학습곡선.ipynb
-   ```
-
----
-
 ### 주요 결과
 - 랜덤포레스트(Random Forest)가 의사결정나무(Decision Tree)보다 성능이 우수함.
 - 정확도와 추가적인 성능 지표(Precision, Recall, F1-Score)는 결과 섹션도 함께 출력됩니다.
