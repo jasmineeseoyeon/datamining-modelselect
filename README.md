@@ -3,7 +3,7 @@ DataMining-ModelSelect
 
 
 ### 코드의 목적
-의사결정나무(Decision Tree)와 랜덤포레스트(Random Forest) 모델의 성능을 비교한다. 
+의사결정나무(Decision Tree)와 랜덤포레스트(Random Forest) 모델의 성능을 비교한다.<br>
 데이터를 효과적으로 분리 및 평가하여 최적의 학습 모델을 선정한다.
 
 ---
