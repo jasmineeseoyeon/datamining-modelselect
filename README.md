@@ -3,8 +3,8 @@ DataMining-ModelSelect
 
 
 ### 코드의 목적
-의사결정나무(Decision Tree)와 랜덤포레스트(Random Forest) 모델의 성능을 비교한다.<br>
-데이터를 효과적으로 분리 및 평가하여 최적의 학습 모델을 선정한다.
+의사결정나무(Decision Tree)와 랜덤포레스트(Random Forest) 모델의 성능을 비교합니다.<br>
+데이터를 효과적으로 분리 및 평가하여 최적의 학습 모델을 선정합니다.
 
 ---
 
@@ -28,7 +28,10 @@ DataMining-ModelSelect
 ---
 
 ### 데이터 설명
-- **데이터셋**: `hotel reservation_original.csv`
+- **데이터 셋**: `hotel reservation_original.csv`<br>
+데이터 분석은 첨부된 데이터셋을 활용하여 진행했습니다.<br>
+해당 데이터셋은 Kaggle 파일에서 `booking_status` 속성을 제외한 표입니다.
+
 - **타겟 변수**: `booking_status`
 - **출처**: [Kaggle - Hotel Reservations Classification Dataset](https://www.kaggle.com/datasets/ahsan81/hotel-reservations-classification-dataset)
 
