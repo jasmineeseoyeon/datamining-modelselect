@@ -30,7 +30,7 @@ DataMining-ModelSelect
 ### 데이터 설명
 - **데이터셋**: `hotel reservation_original.csv`
 - **타겟 변수**: `booking_status`
-- **출처**: `kaggle`
+- **출처**: [Kaggle - Hotel Reservations Classification Dataset](https://www.kaggle.com/datasets/ahsan81/hotel-reservations-classification-dataset)
 
 ---
 
