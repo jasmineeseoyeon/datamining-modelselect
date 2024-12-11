@@ -30,30 +30,26 @@ DataMining-ModelSelect
 ### 데이터 설명
 - **데이터셋**: `hotel reservation_original.csv`
 - **타겟 변수**: `booking_status`
-- **주요 사항**: SMOTE를 사용하여 데이터의 클래스 불균형 문제를 해결했습니다.
+- **출처**: `kaggle`
 
 ---
 
 ### 실행 방법
-1. 레포지토리를 클론합니다:
+
+1. Jupyter Notebook을 실행합니다:
    ```bash
-   git clone https://github.com/your-username/datamining-modelselect.git
-   ```
-2. 필요한 라이브러리를 설치합니다:
+   jupyter notebook
+
+3. 브라우저에서 파일을 열고 실행합니다:
    ```bash
-   pip install -r requirements.txt
-   ```
-3. 메인 스크립트를 실행합니다:
-   ```bash
-   python main.py
+   hotel dataset classify accuracy_학습곡선.ipynb
    ```
 
 ---
 
 ### 주요 결과
-- 랜덤포레스트(Random Forest)가 의사결정나무(Decision Tree)보다 성능이 우수한 것으로 확인되었습니다.
-- 정확도와 추가적인 성능 지표(Precision, Recall, F1-Score)는 결과 섹션에 상세히 기록되어 있습니다.
-- 학습 곡선 분석 결과, 랜덤포레스트는 더 안정적이고 일반화 능력이 뛰어난 모델임을 확인했습니다.
-
+- 랜덤포레스트(Random Forest)가 의사결정나무(Decision Tree)보다 성능이 우수함.
+- 정확도와 추가적인 성능 지표(Precision, Recall, F1-Score)는 결과 섹션도 함께 출력됩니다.
+- 학습 곡선 분석 결과, 랜덤포레스트는 더 안정적이고 일반화 능력이 뛰어난 모델임을 확인.
 
 ---
