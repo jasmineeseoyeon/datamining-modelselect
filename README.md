@@ -1,6 +1,6 @@
 DataMining-ModelSelect
 # 학습 모델 비교 분석 및 성능 평가
-
+모든 변수를 사용한 학습과 10개 속성만 선택한 학습 결과를 포함한다.
 
 ### 코드의 목적
 의사결정나무(Decision Tree)와 랜덤포레스트(Random Forest) 모델의 성능을 비교합니다.<br>
