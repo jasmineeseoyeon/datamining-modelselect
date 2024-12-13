@@ -45,10 +45,11 @@ DataMining-ModelSelect
 
 ---
 
-### 📈 예측 모델 만들기
+### ⚙️ 예측 모델 만들기
 - 실질적인 예측 데이터를 활용하기 위해 Random Forest 예측 모델을 생성하였습니다.
 - `rf_model.predict(X_ohe_new_adj)` 코드를 통해 예측값을 도출했습니다.
-- 범주형 데이터(`room_type_reserved`, `market_segment_type` 등)를 머신러닝 모델이 처리할 수 있도록 숫자 데이터로 변환하기 위해 One-hot encoding을 적용하였습니다.
+- 범주형 데이터(`room_type_reserved`, `market_segment_type` 등)를 머신러닝 모델이 처리할 수 있도록
+  숫자 데이터로 변환하기 위해 One-hot encoding을 적용하였습니다.
 
 
 
