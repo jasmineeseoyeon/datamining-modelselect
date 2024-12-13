@@ -7,7 +7,7 @@ DataMining-ModelSelect
 의사결정나무(Decision Tree)와 랜덤포레스트(Random Forest) 모델의 성능을 비교합니다.<br>
 데이터를 효과적으로 분리 및 평가하여 최적의 학습 모델을 선정합니다.
 
----
+--
 
 ### ✨ 주요 내용
 - SMOTE를 이용한 데이터 불균형 문제 해결
