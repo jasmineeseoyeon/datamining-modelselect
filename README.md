@@ -50,3 +50,5 @@ DataMining-ModelSelect
 - `rf_model.predict(X_ohe_new_adj)` 코드를 통해 예측값을 도출했습니다.
 - 범주형 데이터(`room_type_reserved`, `market_segment_type` 등)를 머신러닝 모델이 처리할 수 있도록 숫자 데이터로 변환하기 위해 One-hot encoding을 적용하였습니다.
 
+
+
